@@ -8,4 +8,4 @@ def speak_to_grandma(phrase)
   end
 end
  
-# "Hi Nana, how are you?" != "HI NANA, HOW ARE YOU?"
+# "WHAT DID YOU EAT TODAY?" == "WHAT DID YOU EAT TODAY?"
